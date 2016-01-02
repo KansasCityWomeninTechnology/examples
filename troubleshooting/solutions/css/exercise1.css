@@ -1,0 +1,9 @@
+img {
+	width: 300px;
+	height: 300px;
+}
+
+.myStyling {
+	color: blue; 
+	border: 2px solid navy;
+}
