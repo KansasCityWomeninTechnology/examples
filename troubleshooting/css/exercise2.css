@@ -1,0 +1,20 @@
+img {
+	width: 300px;
+}
+
+#center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.my-class {
+	font-size: 2em
+	font family: serif;
+	color: green;
+	font-weight: bold;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
